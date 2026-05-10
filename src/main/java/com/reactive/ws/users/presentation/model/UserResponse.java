@@ -1,4 +1,4 @@
-package com.reactive.ws.users.presentation;
+package com.reactive.ws.users.presentation.model;
 
 import java.util.UUID;
 
