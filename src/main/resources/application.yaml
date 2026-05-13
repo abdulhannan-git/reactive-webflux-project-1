@@ -18,3 +18,6 @@ logging:
     io:
       r2dbc:
         h2: DEBUG
+
+token:
+  secret: a9X3bZ7qL2mP4vR8tY6wN1jK5sH0dF3eG7uC9oM2xV4rT8yB6nJ1lQ5pW0z
